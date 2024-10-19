@@ -8,7 +8,7 @@ Then explored results to justify and develop naive multiobjective function F3 th
 UPDATES:
 - Implemented 3D simulation over the original 2D view with animated visuals of robotic paths using Malplotlib Axes3C and FuncAnimation tools:
 
-GIF
+https://github.com/aymanish/Multi-Robot-Task-Allocation-using-Genetic-Algorithms/blob/main/ezgif-4-a3d72a93bb-ezgif.com-speed.gif
 
 Then after comparing F1 and F2 solutions I found that their results varied significantly in failing to optimising for vice versa. 
 Forexample when optimising for just distance not all the robots are allocated tasks to preserve battery but then we are not solving tasks concurrently and thus taking longer.
