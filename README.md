@@ -8,7 +8,9 @@ Then explored results to justify and develop naive multiobjective function F3 th
 
 UPDATES:
 - Implemented 3D simulation over the original 2D view with animated visuals of robotic paths using Malplotlib Axes3C and FuncAnimation tools:
-![]([http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif](https://github.com/aymanish/Multi-Robot-Task-Allocation-using-Genetic-Algorithms/blob/main/ezgif-4-a3d72a93bb-ezgif.com-speed.gif))
+
+![Multi-Robot Animation](ezgif-4-a3d72a93bb-ezgif.com-speed.gif)
+
 
 
 Then after comparing F1 and F2 solutions I found that their results varied significantly in failing to optimising for vice versa. 
