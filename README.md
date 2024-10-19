@@ -5,7 +5,9 @@ Initially explored a simple GA written in Python and DEAP library that optimises
 Then explored results to justify and develop naive multiobjective function F3 that optimises both goals. Eventually, we developed a more complex solution utilising NSGA-II algorithm.
 
 ![image](https://github.com/user-attachments/assets/9dde0e34-82c4-40b3-8ce4-f65a41947269)
-
+UPDATES:
+- Implemented 3D simulation over the original 2D view with animated visuals of robotic paths using Malplotlib Axes3C and FuncAnimation tools:
+![image](https://github.com/user-attachments/assets/e333e400-ca68-47fd-9499-e8551044658b)
 
 Then after comparing F1 and F2 solutions I found that their results varied significantly in failing to optimising for vice versa. 
 Forexample when optimising for just distance not all the robots are allocated tasks to preserve battery but then we are not solving tasks concurrently and thus taking longer.
